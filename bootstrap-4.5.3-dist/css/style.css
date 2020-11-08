@@ -127,6 +127,9 @@ img{
     height:40px;
     width:40px;
 }
+.contact{
+    text-align: center;
+}
 .last{
     background-color: black;
     color: white;
